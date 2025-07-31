@@ -1,0 +1,3 @@
+[gd_resource type="ParticleProcessMaterial" format=3]
+
+# Basic particle material; defaults create small burst
