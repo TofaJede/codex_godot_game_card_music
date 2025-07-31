@@ -1,0 +1,8 @@
+[gd_resource type="ProjectSettings" load_steps=2 format=5]
+
+[resource]
+config/name="CardBeatPrototype"
+config/version="0.1"
+run/main_scene="res://scenes/main.tscn"
+application/run/low_processor_mode=true
+
